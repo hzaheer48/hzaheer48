@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @hzaheer48
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hzaheer48/hzaheer48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in C++ programming
+- 🌱 I’m currently doing BsCS
+- 💞️ I’m looking for cpp Quizes, Assignments and Projects
+- 📫 Contact me here or on email hmmdzaheer@gmail.com
