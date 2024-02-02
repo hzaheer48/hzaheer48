@@ -8,13 +8,13 @@
 
 <p align="center"> <a href="https://twitter.com/hzaheer48" target="blank"><img src="https://img.shields.io/twitter/follow/hzaheer48?logo=twitter&style=for-the-badge" alt="hzaheer48" /></a> </p>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
+![Alt text](images/code.gif?raw=true "Title")
   
 
 - 🚀 I hold a degree in Computer Science, equipped with a passion for technology and a knack for problem-solving.
 
 - 📧 Feel free to reach out to me at hmmdzaheer@gmail.com. I'm always open to connecting and discussing opportunities related to my field. Let's explore the exciting possibilities in the world of computer science together! 🌐
-
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <table width="100">
