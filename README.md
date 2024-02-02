@@ -131,8 +131,8 @@
       </a>
     </td>
     <td align='center' width="190" height="20%">
-      <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="selenium" width="40" />
+      <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://keras.io/img/logo.png" alt="keras" width="40" />
       </a>
     </td>
     <td align='center' width="190" height="20%">
