@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/hzaheer48" target="blank"><img src="https://img.shields.io/twitter/follow/hzaheer48?logo=twitter&style=for-the-badge" alt="hzaheer48" /></a> </p>
 
-<img align="right" alt="GIF" src="images/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="images/code.gif?raw=true" width="300" height="220" />
 
 - 🚀 I hold a degree in Computer Science, equipped with a passion for technology and a knack for problem-solving.
 
