@@ -8,9 +8,9 @@
 
 <p align="center"> <a href="https://twitter.com/hzaheer48" target="blank"><img src="https://img.shields.io/twitter/follow/hzaheer48?logo=twitter&style=for-the-badge" alt="hzaheer48" /></a> </p>
 
-- 🌱 I’m **Computer Science** graduate
+- 🚀 I hold a degree in Computer Science, equipped with a passion for technology and a knack for problem-solving.
 
-- 📫 How to reach me **hmmdzaheer@gmail.com**
+- 📧 Feel free to reach out to me at hmmdzaheer@gmail.com. I'm always open to connecting and discussing opportunities related to my field. Let's explore the exciting possibilities in the world of computer science together! 🌐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,8 +72,8 @@
       </a>
     </td>
     <td align='center' width="190" height="20%">
-      <a href="https://www.wordpress.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" />
+      <a href="https://laravel.com" target="_blank" rel="noreferrer">
+        <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" />
       </a>
     </td>
     <td align='center' width="190" height="20%">
