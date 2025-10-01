@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=hzaheer48&label=Profile%20views&color=0e75b6&style=flat" alt="hzaheer48" /> 
+   <img src="https://komarev.com/ghpvc/?username=hzaheer48&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=hzaheer48&theme=onedark" alt="hzaheer48 trophies" />
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=hzaheer48&theme=onedark" alt="trophies" />
    </a>
 </p>
 
@@ -23,9 +23,7 @@
    </a>
 </p>
 
-<div align="right">
-   <img src="images/code.gif?raw=true" width="300" height="220" alt="coding gif"/>
-</div>
+<img align="right" src="images/code.gif?raw=true" width="300" height="220" alt="coding gif"/>
 
 ---
 
@@ -84,37 +82,40 @@
   <a href="https://linkedin.com/in/hzaheer48">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/hzaheer48">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40"/>
-   <br/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40"/>
-   <img src="https://keras.io/img/logo.png" alt="keras" width="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40"/>
-   <br/>
-   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
-   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
-</p>
+<div align="center">
+   <table width="100">
+      <tr>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" /></td>
+      </tr>
+      <tr>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" /></td>
+         <td align='center'><img src="https://keras.io/img/logo.png" alt="keras" width="40" /></td>
+         <td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" /></td>
+         <td align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" /></td>
+      </tr>
+      <tr>
+         <td align='center'><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" /></td>
+         <td align='center'><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" /></td>
+         <td align='center'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" /></td>
+      </tr>
+   </table>
+</div>
 
 ---
 
